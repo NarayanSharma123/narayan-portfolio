@@ -550,7 +550,7 @@ footer {
   .icons a i,
   .contact-icons a i {
     font-size: 18px;
-    margin-right: 10px;
+    margin: 10px 10px 0 0;
   }
 
   .skills-section .progress-bar {
