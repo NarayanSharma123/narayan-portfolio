@@ -1,41 +1,129 @@
-# 💼 My Personal Portfolio Website | मेरा व्यक्तिगत पोर्टफोलियो वेबसाइट
+# 💼 Personal Portfolio Website
 
-This is my personal portfolio website, built to showcase my skills, projects, and services as a frontend developer. The website is fully responsive and designed to look great on all devices.
+Welcome to my personal portfolio website! This project was designed and developed to showcase my skills, projects, achievements, and services as a Frontend Developer. The website features a modern user interface, responsive design, and smooth user experience across all devices.
 
-यह मेरा व्यक्तिगत पोर्टफोलियो वेबसाइट है, जिसे मैंने अपने कौशल, प्रोजेक्ट्स और सेवाओं को दिखाने के लिए बनाया है। यह वेबसाइट पूरी तरह से responsive है और सभी डिवाइस पर शानदार दिखती है।
+## 🌐 Live Demo
 
-## 🔗 Live Website | लाइव वेबसाइट
-[Click here to visit](https://narayan-portfolio-ten.vercel.app/)
+Visit the website here:
 
-## 🛠️ Built With | उपयोग की गई तकनीकें
-
-- HTML5  
-- CSS3 & Custom Animations  
-- Bootstrap  
-- JavaScript  
-- Responsive Design  
-
-## 📂 Features | विशेषताएं
-
-- Fully responsive layout  
-- Smooth scroll and animations  
-- Sections: Hero, About, Services, Skills, Contact  
-- Clean and modern design  
-
-## 📸 Screenshots | स्क्रीनशॉट्स
-
-_Add your website screenshots here._
-
-## 🧑‍💻 Author | लेखक
-
-**Narayan Bhojak**  
-Frontend Developer
-
-## 💬 Feedback & Contact | प्रतिक्रिया और संपर्क
-
-If you have any feedback or suggestions, feel free to open an issue or contact me.
-
-यदि आपके पास कोई सुझाव या प्रतिक्रिया हो तो कृपया issue खोलें या मुझसे संपर्क करें।
+**https://narayan-portfolio-ten.vercel.app/**
 
 ---
 
+## 🚀 About the Project
+
+This portfolio serves as a central place where visitors can learn more about me, explore my technical skills, view my projects, and get in touch for collaboration or professional opportunities.
+
+The website is built with a focus on simplicity, performance, responsiveness, and clean design principles.
+
+---
+
+## ✨ Features
+
+* Fully Responsive Design
+* Modern and Clean User Interface
+* Smooth Scrolling Navigation
+* Interactive Animations and Effects
+* Dedicated Sections for:
+
+  * Home
+  * About Me
+  * Services
+  * Skills
+  * Projects
+  * Contact
+* Cross-Browser Compatibility
+* Optimized User Experience
+
+---
+
+## 🛠️ Technologies Used
+
+* HTML5
+* CSS3
+* Bootstrap
+* JavaScript (ES6)
+* Responsive Web Design
+* Custom Animations
+
+---
+
+## 📂 Project Structure
+
+```text
+Portfolio/
+│
+├── css/
+├── js/
+├── images/
+├── index.html
+└── README.md
+```
+
+---
+
+## 📸 Screenshots
+
+Add screenshots of your portfolio website here.
+
+Example:
+
+```md
+![Home Page](images/homepage.png)
+
+![About Section](images/about-section.png)
+
+![Projects Section](images/projects-section.png)
+```
+
+---
+
+## 🎯 Objectives
+
+This project demonstrates:
+
+* Frontend Development Skills
+* Responsive Web Design
+* UI/UX Design Principles
+* Bootstrap Framework Usage
+* JavaScript Interactivity
+* Website Deployment
+
+---
+
+## 🌱 Future Enhancements
+
+* Dark Mode Support
+* Blog Section
+* Project Filtering
+* Download Resume Feature
+* Contact Form Integration
+* Backend Integration for Dynamic Content
+
+---
+
+## 🤝 Contributing
+
+Suggestions and feedback are always welcome. Feel free to fork the repository, create improvements, and submit a pull request.
+
+---
+
+## 📬 Contact
+
+If you would like to connect, collaborate, or discuss opportunities, feel free to reach out through the contact section of the website.
+
+---
+
+## 👨‍💻 Developer
+
+**Narayan Sharma**
+
+Frontend Developer
+
+GitHub: https://github.com/NarayanSharma123
+
+Portfolio: https://narayan-portfolio-ten.vercel.app/
+
+---
+
+⭐ If you like this project, consider giving it a star on GitHub.
